@@ -1,3 +1,0 @@
-{
-  "compilerOptions": { "mod": true, "baseUrl": ".", "jsx": "react-native" }
-}
